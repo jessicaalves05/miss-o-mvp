@@ -9,3 +9,6 @@ Há também um botão "Enviar" que permite que o usuário envie o formulário.
 Este projeto tem como objetivo fornecer uma experiência de usuário agradável em diferentes dispositivos, ao mesmo tempo em que treina e aprimora as habilidades de desenvolvimento responsivo. Sinta-se à vontade para explorar e experimentar o layout responsivo da página em diferentes dispositivos.
 
 Espero que essa descrição do projeto seja útil. Se você tiver alguma dúvida adicional, sinta-se à vontade para perguntar.
+  
+<img src="https://github.com/jessicaalves05/miss-o-mvp/assets/130418259/10abb1dc-520f-4de9-92c8-4455186bbf9b" alt="imagem gamer2" width="400" />
+<img src="https://github.com/jessicaalves05/miss-o-mvp/assets/130418259/e7c11482-0f62-4e2b-83ae-5607a1c20d41" alt="imagem gamer1" width="400" />
